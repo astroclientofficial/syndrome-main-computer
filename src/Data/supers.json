@@ -1,17 +1,17 @@
 [
     {
         "super": {
-            "name": "Universal Man",
-            "slug": "universal-man",
+            "name": "The Wolverine",
+            "slug": "wolverine",
             "threatRating": 2.9,
-            "powers": "Atomic density manipulation",
-            "img": "universal_man.png",
+            "powers": "mutant with animal-keen senses, enhanced physical capabilities, a powerful regenerative ability known as a healing factor, a skeleton reinforced with the unbreakable fictional metal adamantium, significantly delayed aging and a prolonged lifespan and three retractable claws in each hand.",
+            "img": "logan.png",
             "terminated": true,
             "refresh": true
         },
         "omnidroid": {
             "name": "X1",
-            "features": "Threaded locomotion, sensory display, bi-articulated grappling claws",
+            "features": "Threaded locomotion, sensory display, bi-articulated grappling claw",
             "img": "x1.png",
             "terminated": false,
             "refresh": true
@@ -19,11 +19,11 @@
     },
     {
         "super": {
-            "name": "Psycwave",
-            "slug": "psycwave",
+            "name": "Deadpool",
+            "slug": "deadpool",
             "threatRating": 1.6,
-            "powers": "Psychic foresight, thought control, telekinesis",
-            "img": "psycwave.png",
+            "powers": "Superhuman strength, speed, durability, stamina, agility, and reflexes; Regenerative healing factor; Extended longevity; Fourth wall breaks; Skilled marksman.",
+            "img": "deadpool.png",
             "terminated": true,
             "refresh": true
         },
